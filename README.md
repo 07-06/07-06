@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente estou aprendendo todas as ferramentas que um analista de dados precisa **SQL,Mongo DB, Power BI, Tableau, Excel, Linguagem R e Linguagem Python**
 
-- Tenho alguns arigos publicados em revista científica, mas são da minha área de formação administração. Caso queira dar uma olhada fique à vontade eles estão disponíveis nos links [https://revivale.ifnmg.edu.br/index.php/revivale/article/view/60 e https://revivale.ifnmg.edu.br/index.php/revivale/article/view/65
+- Tenho alguns artigos publicados em revista científica, mas são da minha área de formação administração. Caso queira dar uma olhada fique à vontade eles estão disponíveis nos links [https://revivale.ifnmg.edu.br/index.php/revivale/article/view/60 e https://revivale.ifnmg.edu.br/index.php/revivale/article/view/65
 
 - 💬 Me pergunte sobre **SQL,Mongo DB, Power BI, Tableau, Excel, Linguagem R e Linguagem Python**
 
